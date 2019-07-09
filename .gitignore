@@ -1,0 +1,4 @@
+# Artefacts from the example build script
+*.c
+*.o
+hello
